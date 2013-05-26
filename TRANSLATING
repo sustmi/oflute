@@ -1,0 +1,16 @@
+Para iniciar el proceso de traducción, primero es necesario generar el
+fichero .pot inicial. Este proceso solo se realizará una vez y
+consistirá en llamar al script make_pot.sh, que leerá los ficheros
+fuente y generará el archivo para las bases de traducciones.
+
+Lo siguiente es generar las plantillas de traducción para los idiomas
+que nos interesen. En este caso se generarán plantillas para español e
+inglés mediante la ejecución del script make_po.sh. Una vez hecho
+esto, podremos editar los ficheros .po generados en la carpeta po y
+añadir nuestras traducciones. Finalmente compilaremos los ficheros .mo
+con make_mo.sh
+
+En sucesivas ocasiones sólo será necesario actualizar los ficheros .po
+mediante el script update_po.sh. Luego habrá que recompilar los .mo
+con make_mo.sh
+

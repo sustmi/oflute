@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Song>
+  <Title>Los pajaritos</Title>
+  <Desc>Van por el aire</Desc>
+  <BPM>60</BPM>
+  <Notes>do5n mi5c fa5c sol5n sol5c sol5c la5n la5c la5c sol5n sol5n fa5n fa5n mi5n mi5n re5c mi5c fa5c re5c do5n do5n</Notes>
+<!--  <Notes>la5np la5n la5np la5n la5c sol5cp fa5b re6n xx0r xx0b xx0n xx0c do6b si5n  mi5n re5c do5n</Notes> -->
+  <other></other>
+</Song>

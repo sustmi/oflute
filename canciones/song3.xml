@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Song>
+  <Title>Noche de paz</Title>
+  <Desc>Autor desconocido</Desc>
+  <BPM>60</BPM>
+  <Notes>sol5n la5c sol5cp mi5np xx0c sol5n la5c sol5cp mi5np xx0c re6np re6c si5n xx0c do6np do6c sol5n xx0c la5np la5c do6n si5c la5cp sol5n la5c sol5cp mi5np
+xx0c la5np la5c do6n si5c la5cp sol5n la5c sol5cp mi5np xx0c</Notes>
+<!--  <Notes>la5np la5n la5np la5n la5c sol5cp fa5b re6n xx0r xx0b xx0n xx0c do6b si5n  mi5n re5c do5n</Notes> -->
+  <other></other>
+</Song>

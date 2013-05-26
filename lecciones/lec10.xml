@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<Lec>
+  <index>10</index>
+  <nombre>Las figuras: negra</nombre>
+  <descrip>Aprende a reconocer
+e interpretar la
+figura negra.</descrip>
+  <elementos>
+   
+    <texto tam="45" ca="255" cr="191" cg="219" cb="59" 
+	   align="1" sombra="1" x="20" y="30" z="2" 
+	   opacSombra="0" wait="0">Lección 10:</texto>
+    
+    <texto x="50" y="80" z="2" tam="60" 
+	   ca="255" cr="34" cg="139" cb="114" 
+	   align="1" sombra="1" opacSombra="23" 
+	   fuenter="media/fLight.ttf" duracion="40" wait="10">Las figuras: negra</texto>
+
+    <texto x="400" y="161" z="2" tam="33" 
+	   ca="255" cr="3" cg="69" cb="90" 
+	   sombra="0" align="2" duracion="40" wait="20">La negra es la figura musical principal, su duración es de un tiempo y
+se utiliza para marcar el compás.</texto>
+
+    <texto x="400" y="251" z="2" tam="33" 
+	   ca="255" cr="3" cg="69" cb="90" 
+	   sombra="0" align="2" duracion="40" wait="30">El silencio asociado se conoce como silencio de negra,
+y tiene una duración de una negra.</texto>
+
+  <img src="media/lecciones/lec_negra.png" x="170" y="350" z="2" wait="40"/>
+</elementos>
+</Lec>

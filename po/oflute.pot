@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR José Tomás Tocino García <theom3ga@gmail.com>
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: oflute 0.1\n"
+"Report-Msgid-Bugs-To: theom3ga@gmail.com\n"
+"POT-Creation-Date: 2010-09-11 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/estadoAnalizador.cpp:51 src/estadoMenu.cpp:52
+msgid "Analizador de notas"
+msgstr ""
+
+#: src/estadoMenuLecciones.cpp:191
+msgid "Anterior lección"
+msgstr ""
+
+#: src/estadoCalibrarMicro.cpp:59
+msgid ""
+"Calibración completa.\n"
+"Pulse escape para volver al menú."
+msgstr ""
+
+#: src/estadoCalibrarMicro.cpp:56
+msgid ""
+"Calibración errónea.\n"
+"Pulse espacio para repetir la calibración."
+msgstr ""
+
+#: src/estadoCalibrarMicro.cpp:29
+msgid "Calibrando. Guarde silencio."
+msgstr ""
+
+#: src/estadoMenu.cpp:56
+msgid "Calibrar micrófono"
+msgstr ""
+
+#: src/estadoMenu.cpp:53
+msgid "Canciones"
+msgstr ""
+
+#: src/estadoMenuLecciones.cpp:162
+msgid "Comenzar lección"
+msgstr ""
+
+#: src/estadoMenuLecciones.cpp:133
+msgid "Descripción:"
+msgstr ""
+
+#: src/estadoMenu.cpp:55
+msgid "Lecciones"
+msgstr ""
+
+#: src/estadoMenuLecciones.cpp:287
+msgid "Lección nº"
+msgstr ""
+
+#: src/estadoMenuLecciones.cpp:112
+msgid "Lección nº1"
+msgstr ""
+
+#: src/estadoMenuLecciones.cpp:70
+msgid "Listado de lecciones"
+msgstr ""
+
+#: src/estadoCalibrarMicro.cpp:19
+msgid ""
+"Para calibrar el micrófono, \n"
+"pulse la tecla espacio y\n"
+msgstr ""
+
+#: src/estadoMenu.cpp:57
+msgid "Salir"
+msgstr ""
+
+#: src/estadoMenuCanciones.cpp:91
+msgid "Seleccione una canción"
+msgstr ""
+
+#: src/estadoMenuLecciones.cpp:177
+msgid "Siguiente lección"
+msgstr ""
+
+#: src/estadoAnalizador.cpp:74 src/estadoMenuCanciones.cpp:111
+msgid "Volver"
+msgstr ""
+
+#: src/estadoMenuLecciones.cpp:91
+msgid "Volver al menú"
+msgstr ""
+
+#: src/estadoCalibrarMicro.cpp:20
+msgid ""
+"guarde silencio durante\n"
+"2 segundos."
+msgstr ""

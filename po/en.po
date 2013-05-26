@@ -1,0 +1,113 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2010 José Tomás Tocino García <theom3ga@gmail.com>
+# This file is distributed under the same license as the PACKAGE package.
+# jose <theom3ga@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: oflute 0.1\n"
+"Report-Msgid-Bugs-To: theom3ga@gmail.com\n"
+"POT-Creation-Date: 2010-09-11 21:10+0200\n"
+"PO-Revision-Date: 2010-08-13 17:08+0200\n"
+"Last-Translator: jose <theom3ga@gmail.com>\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/estadoAnalizador.cpp:51 src/estadoMenu.cpp:52
+msgid "Analizador de notas"
+msgstr "Note analyzer"
+
+#: src/estadoMenuLecciones.cpp:191
+msgid "Anterior lección"
+msgstr "Previous lesson"
+
+#: src/estadoCalibrarMicro.cpp:59
+msgid ""
+"Calibración completa.\n"
+"Pulse escape para volver al menú."
+msgstr ""
+"Calibration complete.\n"
+"Press escape to get back to main menu"
+
+#: src/estadoCalibrarMicro.cpp:56
+msgid ""
+"Calibración errónea.\n"
+"Pulse espacio para repetir la calibración."
+msgstr ""
+"Wrong calibration.\n"
+"Press space to repeat the process."
+
+#: src/estadoCalibrarMicro.cpp:29
+msgid "Calibrando. Guarde silencio."
+msgstr "Calibrating. Keep silence."
+
+#: src/estadoMenu.cpp:56
+msgid "Calibrar micrófono"
+msgstr "Calibrate microphone"
+
+#: src/estadoMenu.cpp:53
+msgid "Canciones"
+msgstr "Songs"
+
+#: src/estadoMenuLecciones.cpp:162
+msgid "Comenzar lección"
+msgstr "Start lesson"
+
+#: src/estadoMenuLecciones.cpp:133
+msgid "Descripción:"
+msgstr "Description"
+
+#: src/estadoMenu.cpp:55
+msgid "Lecciones"
+msgstr "Lessons"
+
+#: src/estadoMenuLecciones.cpp:287
+msgid "Lección nº"
+msgstr "Lesson no."
+
+#: src/estadoMenuLecciones.cpp:112
+msgid "Lección nº1"
+msgstr "Lesson no.1"
+
+#: src/estadoMenuLecciones.cpp:70
+msgid "Listado de lecciones"
+msgstr "Lesson list"
+
+#: src/estadoCalibrarMicro.cpp:19
+msgid ""
+"Para calibrar el micrófono, \n"
+"pulse la tecla espacio y\n"
+msgstr ""
+"To calibrate the microphone, \n"
+"press space and\n"
+
+#: src/estadoMenu.cpp:57
+msgid "Salir"
+msgstr "Exit"
+
+#: src/estadoMenuCanciones.cpp:91
+msgid "Seleccione una canción"
+msgstr "Choose a song"
+
+#: src/estadoMenuLecciones.cpp:177
+msgid "Siguiente lección"
+msgstr "Next lesson"
+
+#: src/estadoAnalizador.cpp:74 src/estadoMenuCanciones.cpp:111
+msgid "Volver"
+msgstr "Back"
+
+#: src/estadoMenuLecciones.cpp:91
+msgid "Volver al menú"
+msgstr "Back to menu"
+
+#: src/estadoCalibrarMicro.cpp:20
+msgid ""
+"guarde silencio durante\n"
+"2 segundos."
+msgstr ""
+"keep silence for\n"
+"a couple of seconds."

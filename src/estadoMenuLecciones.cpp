@@ -211,7 +211,7 @@ void EstadoMenuLecciones::listarLecciones(){
 	pugi::xml_attribute atributo;
 
 	for(; inicial != final ; ++ inicial){
-		if(boost::to_lower_copy(inicial -> path() . extension()) == ".xml"){
+		if(boost::to_lower_copy(inicial->path().extension().generic_string()) == ".xml"){
 
 			EstadoMenuLecciones::InfoLeccion lecActual;
 			string ruta = boost::lexical_cast<string>(inicial -> path());

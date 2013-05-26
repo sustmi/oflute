@@ -308,7 +308,7 @@ void EstadoMenuCanciones::listarCanciones(){
     cancionSeleccionada = 0;
 
     for(; inicial != final ; ++ inicial){
-	if(boost::to_lower_copy(inicial -> path() . extension()) == ".xml"){
+	if(boost::to_lower_copy(inicial->path().extension().generic_string()) == ".xml"){
 	    string atrRuta, atrTitulo, atrDescripcion, atrPos;
 
 	    atrRuta = boost::lexical_cast<string>(inicial -> path());

@@ -10,7 +10,9 @@
     typedef int socklen_t;
 #else
     #include <sys/errno.h>
+	#include <sys/types.h>
     #include <sys/socket.h>
+	#include <sys/unistd.h>
     #include <netinet/in.h>
     #include <arpa/inet.h>
     #include <netdb.h>
